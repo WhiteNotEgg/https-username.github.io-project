@@ -1,2 +1,2 @@
-# https://username.github.io/project
+# username.github.io/project
 test
